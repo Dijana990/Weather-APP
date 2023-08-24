@@ -1,1 +1,1 @@
-# Weather-APP
+The weather application is a tool that enables users to track current weather conditions and forecasts for their location and other destinations. This application provides information about temperature, humidity, precipitation, wind speed, and other meteorological factors. Additionally, it allows users to stay informed about changes in weather conditions, aiding them in planning and preparing for various activities.
